@@ -70,7 +70,10 @@ Inclui:
 
 ## Apresentação
 
-[![Thumbnail do Vídeo](assets/thumb.png)](https://youtu.be/ieo48h7AEdw?si=o5nU-wMOqpc9N4f0)
+<div align="center"> 
+  <img src="assets/thumb.png" alt="Thumbnail do Vídeo)" width="70%"> </p> 
+  <p align="center"><em>Explicação e demonstração sobre <strong>Árvores Balanceadas</strong>.</em></p>
+</div>
 
 ## Conclusões
 
